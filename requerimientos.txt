@@ -1,0 +1,7 @@
+ DEPENDENCIAS 
+ 
+Instala las dependencias en la carpeta inventario y productos.
+ 
+npm init -y
+npm install express jsonwebtoken bcryptjs pg
+
